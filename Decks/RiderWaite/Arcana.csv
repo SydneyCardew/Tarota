@@ -1,0 +1,78 @@
+A,0,0,Major,,The Fool,0
+A,1,I,Major,,The Magician,1
+A,2,II,Major,,The High Priestess,2
+A,3,III,Major,,The Empress,3
+A,4,IV,Major,,The Emperor,4
+A,5,V,Major,,The Heirophant,5
+A,6,VI,Major,,The Lovers,6
+A,7,VII,Major,,The Chariot,7
+A,8,VIII,Major,,Strength,8
+A,9,IX,Major,,The Hermit,9
+A,10,X,Major,,Wheel of Fortune,10
+A,11,XI,Major,,Justice,11
+A,12,XII,Major,,The Hanged Man,12
+A,13,XIII,Major,,Death,13
+A,14,XIV,Major,,Temperance,14
+A,15,XV,Major,,The Devil,15
+A,16,XVI,Major,,The Tower,16
+A,17,XVII,Major,,The Star,17
+A,18,XVIII,Major,,The Moon,18
+A,19,XIX,Major,,The Sun,19
+A,20,XX,Major,,Judgement,20
+A,21,XXI,Major,,The World,21
+A,22,XXII,Minor,Wands,Ace of Wands,1
+A,23,XXIII,Minor,Wands,Two of Wands,2
+A,24,XXIV,Minor,Wands,Three of Wands,3
+A,25,XXV,Minor,Wands,Four of Wands,4
+A,26,XXVI,Minor,Wands,Five of Wands,5
+A,27,XXVII,Minor,Wands,Six of Wands,6
+A,28,XXVIII,Minor,Wands,Seven of Wands,7
+A,29,XXIX,Minor,Wands,Eight of Wands,8
+A,30,XXX,Minor,Wands,Nine of Wands,9
+A,31,XXXI,Minor,Wands,Ten of Wands,10
+A,32,XXXII,Minor,Wands,Page of Wands,11
+A,33,XXXIII,Minor,Wands,Knight of Wands,12
+A,34,XXXIV,Minor,Wands,Queen of Wands,13
+A,35,XXXV,Minor,Wands,King of Wands,14
+A,36,XXXVI,Minor,Pentacles,Ace of Pentacles,1
+A,37,XXXVII,Minor,Pentacles,Two of Pentacles,2
+A,38,XXXVIII,Minor,Pentacles,Three of Pentacles,3
+A,39,XXXIX,Minor,Pentacles,Four of Pentacles,4
+A,40,XL,Minor,Pentacles,Five of Pentacles,5
+A,41,XLI,Minor,Pentacles,Six of Pentacles,6
+A,42,XLII,Minor,Pentacles,Seven of Pentacles,7
+A,43,XLIII,Minor,Pentacles,Eight of Pentacles,8
+A,44,XLIV,Minor,Pentacles,Nine of Pentacles,9
+A,45,XLV,Minor,Pentacles,Ten of Pentacles,10
+A,46,XLVI,Minor,Pentacles,Page of Pentacles,11
+A,47,XLVII,Minor,Pentacles,Knight of Pentacles,12
+A,48,XLVIII,Minor,Pentacles,Queen of Pentacles,13
+A,49,XLIX,Minor,Pentacles,King of Pentacles,14
+A,50,L,Minor,Cups,Ace of Cups,1
+A,51,LI,Minor,Cups,Two of Cups,2
+A,52,LII,Minor,Cups,Three of Cups,3
+A,53,LIII,Minor,Cups,Four of Cups,4
+A,54,LIV,Minor,Cups,Five of Cups,5
+A,55,LV,Minor,Cups,Six of Cups,6
+A,56,LVI,Minor,Cups,Seven of Cups,7
+A,57,LVII,Minor,Cups,Eight of Cups,8
+A,58,LVIII,Minor,Cups,Nine of Cups,9
+A,59,LIX,Minor,Cups,Ten of Cups,10
+A,60,LX,Minor,Cups,Page of Cups,11
+A,61,LXI,Minor,Cups,Knight of Cups,12
+A,62,LXII,Minor,Cups,Queen of Cups,13
+A,63,LXIII,Minor,Cups,King of Cups,14
+A,64,LXIV,Minor,Swords,Ace of Swords,1
+A,65,LXV,Minor,Swords,Two of Swords,2
+A,66,LXVI,Minor,Swords,Three of Swords,3
+A,67,LXVII,Minor,Swords,Four of Swords,4
+A,68,LXVIII,Minor,Swords,Five of Swords,5
+A,69,LXIX,Minor,Swords,Six of Swords,6
+A,70,LXX,Minor,Swords,Seven of Swords,7
+A,71,LXXI,Minor,Swords,Eight of Swords,8
+A,72,LXXII,Minor,Swords,Nine of Swords,9
+A,73,LXXIII,Minor,Swords,Ten of Swords,10
+A,74,LXXIV,Minor,Swords,Page of Swords,11
+A,75,LXXV,Minor,Swords,Knight of Swords,12
+A,76,LXXVI,Minor,Swords,Queen of Swords,13
+A,77,LXXVII,Minor,Swords,King of Swords,14
